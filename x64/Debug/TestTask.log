@@ -1,0 +1,10 @@
+﻿  TestTask.cpp
+C:\Users\Evgeniy\source\repos\TestTask\TestTask\TestTask.cpp(266,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Evgeniy\source\repos\TestTask\TestTask\TestTask.cpp(290,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Evgeniy\source\repos\TestTask\TestTask\TestTask.cpp(308,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Evgeniy\source\repos\TestTask\TestTask\TestTask.cpp(311,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Evgeniy\source\repos\TestTask\TestTask\TestTask.cpp(318,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Evgeniy\source\repos\TestTask\TestTask\TestTask.cpp(323,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Evgeniy\source\repos\TestTask\TestTask\TestTask.cpp(328,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Evgeniy\source\repos\TestTask\TestTask\TestTask.cpp(375,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  TestTask.vcxproj -> C:\Users\Evgeniy\source\repos\TestTask\x64\Debug\TestTask.exe
